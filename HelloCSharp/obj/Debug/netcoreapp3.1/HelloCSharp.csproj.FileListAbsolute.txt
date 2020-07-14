@@ -1,0 +1,13 @@
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp.deps.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp.runtimeconfig.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp.runtimeconfig.dev.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/bin/Debug/netcoreapp3.1/HelloCSharp.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.csprojAssemblyReference.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.AssemblyInfoInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.AssemblyInfo.cs
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/HelloCSharp/obj/Debug/netcoreapp3.1/HelloCSharp.genruntimeconfig.cache
