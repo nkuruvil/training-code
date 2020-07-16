@@ -52,6 +52,10 @@ namespace Calculator
                         Subtract(input1, input2);
 
                         break;
+                    case "3":
+                        break;
+                    case "4":
+                        break;
                     default:
                         state = false;
                         break;

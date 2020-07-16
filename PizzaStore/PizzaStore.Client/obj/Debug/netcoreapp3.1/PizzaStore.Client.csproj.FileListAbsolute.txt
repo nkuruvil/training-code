@@ -1,0 +1,16 @@
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csprojAssemblyReference.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.AssemblyInfoInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.AssemblyInfo.cs
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csproj.CoreCompileInputs.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.deps.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.runtimeconfig.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.runtimeconfig.dev.json
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Client.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.genruntimeconfig.cache
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Domain.dll
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/bin/Debug/netcoreapp3.1/PizzaStore.Domain.pdb
+/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/obj/Debug/netcoreapp3.1/PizzaStore.Client.csproj.CopyComplete
