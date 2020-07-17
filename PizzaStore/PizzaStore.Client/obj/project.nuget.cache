@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rBYwV276aE0dGTfcC6diDQc1mimTjUFEI9B7czmANZrJu6O5o15JVriI0FD1vnidtJb7R8ViLUF8PRRjR7pXrQ==",
+  "dgSpecHash": "o8WtHq7c7HTCXQopnrwkk5JprxXcFWdtR96PLVb12dhlWTbL+7KprB0TPj3mmYIOMeagfVf93KQj/Km1PKFkvA==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Client/PizzaStore.Client.csproj",
+  "projectFilePath": "C:\\Users\\ekuru\\2007_13_dotnet\\week_1\\PizzaStore\\PizzaStore.Client\\PizzaStore.Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

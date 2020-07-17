@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using PizzaStore.Domain.Models;
 using System.Text;
 
 namespace PizzaStore.Domain.Models
@@ -7,16 +8,19 @@ namespace PizzaStore.Domain.Models
     {
         // State
         //field
-        string ImageUrl = "";
-        double Diameter = 0;
-        public string Size = "";
-        public List<string> Toppings = new List<string>();
-        public string Crust = "";
+        private readonly string ImageUrl = ""; // Once intiated, can't be changed 
+        private const double Diameter = 0; //All pizza will have same diamter
+        private static string _name = "pizza"; //Belong to class
+        private List<string> _toppings = new List<string>();
 
         //properties (mixture of fields/getters and setters)
-        public string SizeP 
-        { 
-            get;
+        public string Crust { get; }
+        public string Size { get; }
+        public List<string> Toppin8gs{
+            get
+            {
+                return _toppings;
+            }
         }
 
 
@@ -24,7 +28,7 @@ namespace PizzaStore.Domain.Models
         //methods
         public void AddToppings(string topping)
         {
-            Toppings.Add(topping);
+            _toppings.Add(topping);
         }
 
         public override string ToString(){
@@ -42,7 +46,7 @@ namespace PizzaStore.Domain.Models
             */
             var sb = new StringBuilder();
             //string toppingsList = "{";
-            foreach(string t in Toppings){
+            foreach(string t in _toppings){
                 sb.Append(t + ", ");
             }
             //toppingsList = toppingsList.Substring(0, toppingsList.Length-2);
@@ -56,7 +60,14 @@ namespace PizzaStore.Domain.Models
         {
             Size = size;
             Crust = crust;
-            Toppings.AddRange(toppings);
+            _toppings.AddRange(toppings);
+        }
+
+        public Pizza()
+        {
+            Size = "";
+            Crust = "";
+            //intentionally empty
         }
 
         //finalize or static

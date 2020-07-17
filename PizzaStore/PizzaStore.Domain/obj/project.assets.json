@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/home/nkuruvilla/.nuget/packages/": {}
+    "C:\\Users\\ekuru\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Domain/PizzaStore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ekuru\\2007_13_dotnet\\week_1\\PizzaStore\\PizzaStore.Domain\\PizzaStore.Domain.csproj",
       "projectName": "PizzaStore.Domain",
-      "projectPath": "/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Domain/PizzaStore.Domain.csproj",
-      "packagesPath": "/home/nkuruvilla/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/ekuru/2007_13_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/",
+      "projectPath": "C:\\Users\\ekuru\\2007_13_dotnet\\week_1\\PizzaStore\\PizzaStore.Domain\\PizzaStore.Domain.csproj",
+      "packagesPath": "C:\\Users\\ekuru\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ekuru\\2007_13_dotnet\\week_1\\PizzaStore\\PizzaStore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nkuruvilla/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ekuru\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -231,7 +231,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

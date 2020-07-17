@@ -1,15 +1,32 @@
 using System.Collections.Generic;
 using PizzaStore.Domain.Models;
 
+
 namespace PizzaStore.Client
 {
-    internal class Startup
+    public class Startup
     {
-        public Pizza CreatePizza(string size, string crust, List<string> toppings)
+        public Order CreateOrder(User user, Store store)
         {
-            var pizza = new Pizza(size, crust, toppings);
+            try
+            {
 
-            return pizza;
+                var order = new Order();
+
+                user.Orders.Add(order);
+                store.Orders.Add(order);
+
+                return order;
+            } 
+            catch 
+            {
+                throw new System.Exception("Technical Difficulties. Please try again later.");
+            }
+            finally
+            {
+                //Use to clean up resources
+                
+            }
         }
     }
 }
