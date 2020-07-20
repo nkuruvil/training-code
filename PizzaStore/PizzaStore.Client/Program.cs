@@ -57,6 +57,8 @@ namespace PizzaStore.Client
         bool exit = false;
         var startup = new PizzaStore.Client.Startup();
 
+        string[] pizzaNames = {"Cheese", "Pepperoni", "Sausage", "Vegetarian", "Supreme", "Custom"};
+
         do
         {
 
