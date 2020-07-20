@@ -49,3 +49,9 @@
 - Value = all primitives except string, struct, enum
 - CLR = .NET runtime, support BCL (base class lib), CTS (common type system), VES (virtual execution sys), JIT (just in time)
 - Runtime = portability, interoperability, memory management
+- Scopes = support for 4 lv's of scoping, namely namespace, data structure (class, interface, struct, enum), methods, block (control flow, exception handling)
+- Collections = support for array (1-dimensonal array, multi-dimensional array), for list
+- Exception Handling = handle with try/catch/finally, try with no catch, catch (not recommended), catch
+- Unit Testing = support for running codebase logic w/o application start, structurally setup with arrange/act/assert block, test coverage
+- Serialization = convert data from one system to another, transfer object to xml text format
+- Debugging - support for running coebase in steps including breakpoints, conditions.
