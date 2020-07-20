@@ -57,4 +57,13 @@
 - Debugging - support for running coebase in steps including breakpoints, conditions.
 - Modifiers = support 2 types, access (public > protected > internal > private) and regular/extended (const, readonly, static, override)
 - Method Overloading = support for methods in the same data structure, with same name but different signature
-- Object Oriented Programming = support for Abstraction, Encapsulation, Inheritance, Polymorphism
+- Object Oriented Programming = support for Abstraction, Encapsulation, Inheritance, Polymorphism (known as the pillars)
+--Overriding -> Within a class can overwrite a method with a different result (ex toString)
+- overloading -> two version of same method with different parameters
+--abstraction -> simplyfying the code in a function and letting the user know that the function is doing the job without knowing the detail.
+
+
+## Need to review:
+- Arrays
+- For loops
+- Encapsulation
