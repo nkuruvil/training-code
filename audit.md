@@ -55,3 +55,6 @@
 - Unit Testing = support for running codebase logic w/o application start, structurally setup with arrange/act/assert block, test coverage
 - Serialization = convert data from one system to another, transfer object to xml text format
 - Debugging - support for running coebase in steps including breakpoints, conditions.
+- Modifiers = support 2 types, access (public > protected > internal > private) and regular/extended (const, readonly, static, override)
+- Method Overloading = support for methods in the same data structure, with same name but different signature
+- Object Oriented Programming = support for Abstraction, Encapsulation, Inheritance, Polymorphism
